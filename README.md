@@ -32,3 +32,18 @@ Following are short revision notes created to glance through before interviews. 
 12. Top K elements
 13. K-way Merge
 14. Topological sort
+
+---
+
+## 📋 Repository Migration Notice
+
+**This repository was migrated from a previous GitHub account (`seshuen`) after losing access to that account.**
+
+- ✅ **Original commit history has been fully preserved**
+- ✅ **All branches, tags, and timestamps remain intact**
+- ✅ **Commit authorship and dates are unchanged**
+
+The migration was performed to maintain continuity of my work and ensure accessibility for future development.
+
+---
+
